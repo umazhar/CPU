@@ -1,7 +1,3 @@
-Below is the formatted text block suitable for your README.
-
-***
-
 ## **Future Supported Instructions**
 
 | Type | Instruction | Description |
